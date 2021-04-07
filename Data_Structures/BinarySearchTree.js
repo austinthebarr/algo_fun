@@ -30,10 +30,6 @@ class Tree {
       }
     }
   }
-
-  toObject() {
-    return this.root;
-  }
 }
 
 class Node {
